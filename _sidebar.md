@@ -1,113 +1,109 @@
-### [System Architecture and Installation](http://localhost:8280/boguenon_web/main/manual/en/system_architecture_and_installation.jsp)
+- [System Architecture and Installation](system_architecture_and_installation.md)
 
-- [System Requirements](http://localhost:8280/boguenon_web/main/manual/en/system_requirements.jsp)
-- [Metadatabase configuration](http://localhost:8280/boguenon_web/main/manual/en/metadatabase_configuration.jsp)
-- [Installation Steps](http://localhost:8280/boguenon_web/main/manual/en/installation_steps.jsp)
-- [Configuration Property file](http://localhost:8280/boguenon_web/main/manual/en/configuration_property_file.jsp)
-- [Optional R Statistics Analysis Installation](http://localhost:8280/boguenon_web/main/manual/en/optional_r_statistics_analysis_installation.jsp)
-- [Server directory structures](http://localhost:8280/boguenon_web/main/manual/en/server_directory_structures.jsp)
-- [Meta database table information](http://localhost:8280/boguenon_web/main/manual/en/meta_database_table_information.jsp)
-- [Metadata analysis examples](http://localhost:8280/boguenon_web/main/manual/en/metadata_analysis_examples.jsp)
+	- [System Requirements](system_requirements.md)
+	- [Metadatabase configuration](metadatabase_configuration.md)
+	- [Installation Steps](installation_steps.md)
+	- [Configuration Property file](configuration_property_file.md)
+	- [Optional R Statistics Analysis Installation](optional_r_statistics_analysis_installation.md)
+	- [Server directory structures](server_directory_structures.md)
+	- [Meta database table information](meta_database_table_information.md)
+	- [Metadata analysis examples](metadata_analysis_examples.md)
 
-### [System Administration Guide](http://localhost:8280/boguenon_web/main/manual/en/system_administration_guide.jsp)
+- [System Administration Guide](system_administration_guide.md)
 
-- [System Management Modules](http://localhost:8280/boguenon_web/main/manual/en/system_management_modules.jsp)
-- [User and Role management](http://localhost:8280/boguenon_web/main/manual/en/user_and_role_management_.jsp)
-- [Content version management and recovery](http://localhost:8280/boguenon_web/main/manual/en/content_version_management_and_recovery.jsp)
+	- [System Management Modules](system_management_modules.md)
+	- [User and Role management](user_and_role_management_.md)
+	- [Content version management and recovery](content_version_management_and_recovery.md)
 
-### [Data Analysis](http://localhost:8280/boguenon_web/main/manual/en/data_analysis.jsp)
+- [Data Analysis](data_analysis.md)
 
-- [Data analysis development processes](http://localhost:8280/boguenon_web/main/manual/en/data_analysis_development_processes.jsp)
-- [Database Connection](http://localhost:8280/boguenon_web/main/manual/en/database_connection.jsp)
+	- [Data analysis development processes](data_analysis_development_processes.md)
+	- [Database Connection](database_connection.md)
 
-### [Business Object](http://localhost:8280/boguenon_web/main/manual/en/business_object_.jsp)
+- [Business Object](business_object_.md)
 
-- [Table Registration](http://localhost:8280/boguenon_web/main/manual/en/table_registration.jsp)
-- [Inline View SQL](http://localhost:8280/boguenon_web/main/manual/en/inline_view_sql.jsp)
+	- [Table Registration](table_registration.md)
+	- [Inline View SQL](inline_view_sql.md)
 
-### [Relational Table Relation Diagrams](http://localhost:8280/boguenon_web/main/manual/en/relational_table_relation_diagrams.jsp)
+- [Relational Table Relation Diagrams](relational_table_relation_diagrams.md)
 
-- [Table relation](http://localhost:8280/boguenon_web/main/manual/en/table_relation.jsp)
-- [Create Relationship Diagram..](http://localhost:8280/boguenon_web/main/manual/en/create_relationship_diagram___.jsp)
-- [Automatic Joining](http://localhost:8280/boguenon_web/main/manual/en/automatic_joining.jsp)
-- [How to simplify model](http://localhost:8280/boguenon_web/main/manual/en/how_to_simplify_model_.jsp)
-- [Example relational diagram..](http://localhost:8280/boguenon_web/main/manual/en/example_relational_diagram___.jsp)
+	- [Table relation](table_relation.md)
+	- [Create Relationship Diagram..](create_relationship_diagram___.md)
+	- [Automatic Joining](automatic_joining.md)
+	- [How to simplify model](how_to_simplify_model_.md)
+	- [Example relational diagram..](example_relational_diagram___.md)
 
-### [Analysis Metrics](http://localhost:8280/boguenon_web/main/manual/en/analysis_metrics.jsp)
+- [Analysis Metrics](analysis_metrics.md)
 
-- [Dimension](http://localhost:8280/boguenon_web/main/manual/en/dimension.jsp)
-- [Custom Dimension](http://localhost:8280/boguenon_web/main/manual/en/custom_dimension.jsp)
-- [Measure](http://localhost:8280/boguenon_web/main/manual/en/measure.jsp)
-- [Formula Measure](http://localhost:8280/boguenon_web/main/manual/en/formula_measure.jsp)
-- [Micro Chart Dimension](http://localhost:8280/boguenon_web/main/manual/en/micro_chart_dimension.jsp)
-- [User Defined Grouping Dimension](http://localhost:8280/boguenon_web/main/manual/en/user_defined_grouping_dimension.jsp)
+	- [Dimension](dimension.md)
+	- [Custom Dimension](custom_dimension.md)
+	- [Measure](measure.md)
+	- [Formula Measure](formula_measure.md)
+	- [Micro Chart Dimension](micro_chart_dimension.md)
+	- [User Defined Grouping Dimension](user_defined_grouping_dimension.md)
 
-### [Advanced Topics on Analysis](http://localhost:8280/boguenon_web/main/manual/en/advanced_topics_on_analysis.jsp)
+- [Advanced Topics on Analysis](advanced_topics_on_analysis.md)
 
-- [Grid Styles](http://localhost:8280/boguenon_web/main/manual/en/grid_styles.jsp)
-- [Ranges and Highlight Options](http://localhost:8280/boguenon_web/main/manual/en/ranges_and_highlight_options.jsp)
-- [Code Mapping](http://localhost:8280/boguenon_web/main/manual/en/code_mapping.jsp)
-- [Global variables for analysis](http://localhost:8280/boguenon_web/main/manual/en/global_variables_for_analysis.jsp)
+	- [Grid Styles](grid_styles.md)
+	- [Ranges and Highlight Options](ranges_and_highlight_options.md)
+	- [Code Mapping](code_mapping.md)
+	- [Global variables for analysis](global_variables_for_analysis.md)
 
-### [Report](http://localhost:8280/boguenon_web/main/manual/en/report_.jsp)
+- [Report](report_.md)
 
-- [Creating Report](http://localhost:8280/boguenon_web/main/manual/en/creating_report_.jsp)
-- [Reporting for Business](http://localhost:8280/boguenon_web/main/manual/en/reporting_for_business.jsp)
-- [Pivot table with variations](http://localhost:8280/boguenon_web/main/manual/en/pivot_table_with_variations.jsp)
-- [Formulas on Reports](http://localhost:8280/boguenon_web/main/manual/en/result_formula_on_reports.jsp)
-- [Formulas cases and examples](http://localhost:8280/boguenon_web/main/manual/en/reporting_with_formulas.jsp)
-- [Formatting and Styles on result grids](http://localhost:8280/boguenon_web/main/manual/en/formatting_and_styles_on_result_grids.jsp)
-- [Layout Sheets for Dashboard](http://localhost:8280/boguenon_web/main/manual/en/layouting_sheets_in_report_.jsp)
-- [Layout Filter Prompt](http://localhost:8280/boguenon_web/main/manual/en/layouting_filter_prompt_.jsp)
-- [Page Filter Widget](http://localhost:8280/boguenon_web/main/manual/en/result_filtering_with_page_filter_widget_.jsp)
-- [Filtering Data](http://localhost:8280/boguenon_web/main/manual/en/data_filtering.jsp)
+	- [Creating Report](creating_report_.md)
+	- [Reporting for Business](reporting_for_business.md)
+	- [Pivot table with variations](pivot_table_with_variations.md)
+	- [Formulas on Reports](result_formula_on_reports.md)
+	- [Formulas cases and examples](reporting_with_formulas.md)
+	- [Formatting and Styles on result grids](formatting_and_styles_on_result_grids.md)
+	- [Layout Sheets for Dashboard](layouting_sheets_in_report_.md)
+	- [Layout Filter Prompt](layouting_filter_prompt_.md)
+	- [Page Filter Widget](result_filtering_with_page_filter_widget_.md)
+	- [Filtering Data](data_filtering.md)
 
-### [Chart Visualization](http://localhost:8280/boguenon_web/main/manual/en/chart_visualization.jsp)
+- [Chart Visualization](chart_visualization.md)
 
-- [Creating Chart](http://localhost:8280/boguenon_web/main/manual/en/creating_chart_.jsp)
-- [Chart Wizards](http://localhost:8280/boguenon_web/main/manual/en/chart_wizards.jsp)
-- [Chart Drill Down](http://localhost:8280/boguenon_web/main/manual/en/chart_drill_down.jsp)
-- [Slicing Charts](http://localhost:8280/boguenon_web/main/manual/en/slicing_charts.jsp)
+	- [Creating Chart](creating_chart_.md)
+	- [Chart Wizards](chart_wizards.md)
+	- [Chart Drill Down](chart_drill_down.md)
+	- [Slicing Charts](slicing_charts.md)
 
-### [Data Visualization Charts](http://localhost:8280/boguenon_web/main/manual/en/data_visualization_charts.jsp)
+- [Data Visualization Charts](data_visualization_charts.md)
 
+- [Training and Tutorials](training_and_tutorials.md)
 
+	- [Sales status using Inline SQL](sales_status_using_inline_sql.md)
 
-### [Training and Tutorials](http://localhost:8280/boguenon_web/main/manual/en/training_and_tutorials.jsp)
+- [Custom Chart API Developer's Guide](custom_chart_api_developer_guide.md)
 
-- [Sales status using Inline SQL](http://localhost:8280/boguenon_web/main/manual/en/sales_status_using_inline_sql.jsp)
+- [Advanced Statistical Analysis](advanced_statistical_analysis.md)
 
-### [Custom Chart API Developer's Guide](http://localhost:8280/boguenon_web/main/manual/en/custom_chart_api_developer_guide.jsp)
+- [Scheduling Report as background process](scheduling_report_as_background_process.md)
 
-### [Advanced Statistical Analysis](http://localhost:8280/boguenon_web/main/manual/en/advanced_statistical_analysis.jsp)
+- [Export with Template](export_with_template.md)
 
+	- [Export with Office Templates](export_with_office_templates.md)
+	- [Export with Jasper Report](export_with_jasper_report_.md)
 
+- [Data Mashing](data_mashing.md)
 
-### [Scheduling Report as background process](http://localhost:8280/boguenon_web/main/manual/en/scheduling_report_as_background_process.jsp)
+- [Python Integrated Environment](python_integrated_environment_.md)
 
-### [Export with Template](http://localhost:8280/boguenon_web/main/manual/en/export_with_template.jsp)
+	- [Install Jupyer Notebook](install_jupyer_notebook.md)
+	- [Create Jupyer Report](create_jupyer_report_.md)
+	- [Scripting Jupyter Report](scripting_jupyter_report_.md)
 
-- [Export with Office Templates](http://localhost:8280/boguenon_web/main/manual/en/export_with_office_templates.jsp)
-- [Export with Jasper Report](http://localhost:8280/boguenon_web/main/manual/en/export_with_jasper_report_.jsp)
+- [Salesforce Data Synchronization](salesforce_data_synchronization.md)
 
-### [Data Mashing](http://localhost:8280/boguenon_web/main/manual/en/data_mashing.jsp)
+	- [Connecting to Salesforce cloud instance](connecting_to_salesforce_cloud_instance.md)
 
-### [Python Integrated Environment](http://localhost:8280/boguenon_web/main/manual/en/python_integrated_environment_.jsp)
+- [Oracle Discoverer Migration](oracle_discoverer_migration.md)
 
-- [Install Jupyer Notebook](http://localhost:8280/boguenon_web/main/manual/en/install_jupyer_notebook.jsp)
-- [Create Jupyer Report](http://localhost:8280/boguenon_web/main/manual/en/create_jupyer_report_.jsp)
-- [Scripting Jupyter Report](http://localhost:8280/boguenon_web/main/manual/en/scripting_jupyter_report_.jsp)
+- [Oracle JD Edwards Data Integration](oracle_jd_edwards_data_integration.md)
 
-### [Salesforce Data Synchronization](http://localhost:8280/boguenon_web/main/manual/en/salesforce_data_synchronization.jsp)
+- [Single Sign On (SSO) Module Development Guide](single_sign_on__sso__module_development_guide.md)
 
-- [Connecting to Salesforce cloud instance](http://localhost:8280/boguenon_web/main/manual/en/connecting_to_salesforce_cloud_instance.jsp)
-
-### [Oracle Discoverer Migration](http://localhost:8280/boguenon_web/main/manual/en/oracle_discoverer_migration.jsp)
-
-### [Oracle JD Edwards Data Integration](http://localhost:8280/boguenon_web/main/manual/en/oracle_jd_edwards_data_integration.jsp)
-
-### [Single Sign On (SSO) Module Development Guide](http://localhost:8280/boguenon_web/main/manual/en/single_sign_on__sso__module_development_guide.jsp)
-
-- [SSO System flow](http://localhost:8280/boguenon_web/main/manual/en/sso_system_flow.jsp)
-- [SSO Server Settings](http://localhost:8280/boguenon_web/main/manual/en/sso_server_settings.jsp)
-- [SSO Implementation (Java Class Development)](http://localhost:8280/boguenon_web/main/manual/en/sso_implementation__java_class_development__.jsp)
+	- [SSO System flow](sso_system_flow.md)
+	- [SSO Server Settings](sso_server_settings.md)
+	- [SSO Implementation (Java Class Development)](sso_implementation__java_class_development__.md)
